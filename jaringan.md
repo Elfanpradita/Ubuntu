@@ -1,4 +1,4 @@
-Siap! Aku buatkan versi **README.md** yang lengkap dari awal sampai akhir, supaya bisa langsung dijadikan panduan permanen untuk setting IP statis di Ubuntu 22.04 dengan cloud-init.
+Ubuntu 22.04 dengan cloud-init.
 
 ````markdown
 # Panduan Setup IP Statis Permanen di Ubuntu 22.04 (Cloud-init)
