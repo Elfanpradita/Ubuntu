@@ -1,5 +1,3 @@
-Ubuntu 22.04 dengan cloud-init.
-
 # Panduan Setup IP Statis Permanen di Ubuntu 22.04 (Cloud-init)
 
 Dokumen ini menjelaskan langkah-langkah untuk **mengatur IP statis permanen** di Ubuntu 22.04, termasuk menonaktifkan cloud-init agar konfigurasi tidak hilang setelah reboot. Panduan ini juga memastikan IP lama (secondary) dinonaktifkan.
